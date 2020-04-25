@@ -43,8 +43,8 @@
 
 ## Conceptual Diagram
 
-![con](./images/db-conceptual.png)
+![con](images/db-conceptual.png)
 
 ## Physical Diagram
 
-![phy](./images/db-physical.png)
+![phy](images/db-physical.png)
